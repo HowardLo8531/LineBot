@@ -10,8 +10,9 @@ namespace MyWebook
 {
     public partial class _default : System.Web.UI.Page
     {
-        const string channelAccessToken = "szHHj+oEk9xaifXctnOSAzYCmbl8zSl9ZchX8umeUrDheBZGlIYypyrvRcDWBampHVOFrSak7odcN9937f3PEO4DtQ+Lhg1TNZGwG5Eer5PURst4U++NglfOIx8uwk/XnPEzwr7xAaJo8Os0rrIxQAdB04t89/1O/w1cDnyilFU=";
-        const string AdminUserId= "U6f0f1251d93a2f88ace156d3d2db8b38";
+        const string channelAccessToken = "chLuKo3qo6h4SXHNHqLB+uDCQXyMo4QXakpb3pXrjXRTZ7FqZB5sRRZYdWmIzGjfjjwccqFXwUcCIM9DnyL3jOeZ+uQUK41a+MeKuDMaivaam3hSO7NJJlewi4JGAbH6gLtV76XwbGTKXbBWEyLjiQdB04t89/1O/w1cDnyilFU=";
+
+        const string AdminUserId= "Ua8e0bf7c715505b08dc47c6a106b531c";
 
         protected void Page_Load(object sender, EventArgs e)
         {
