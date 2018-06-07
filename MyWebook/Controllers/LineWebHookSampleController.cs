@@ -28,7 +28,7 @@ namespace MyWebook.Controllers
                 if (LineEvent.type == "message")
                 {
                     if (LineEvent.message.type == "text") //收到文字
-                        this.ReplyMessage(LineEvent.replyToken, "你說了:" + LineEvent.message.text);
+                        this.ReplyMessage(LineEvent.replyToken, "87" + LineEvent.message.text);
                     if (LineEvent.message.type == "sticker") //收到貼圖
                         this.ReplyMessage(LineEvent.replyToken, 1, 2);
                 }

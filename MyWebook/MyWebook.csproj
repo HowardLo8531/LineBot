@@ -108,7 +108,11 @@
   <ItemGroup>
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\jasonchang - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\jasonchang - FTP1.pubxml" />
     <None Include="Properties\PublishProfiles\jasonchang - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\jasonchang - Web Deploy1.pubxml" />
+    <None Include="Properties\PublishProfiles\test20180531A - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\test20180531A - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
